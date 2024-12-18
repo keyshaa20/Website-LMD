@@ -26,7 +26,6 @@ header .brand{
     font-weight: 800;
     text-transform: uppercase;
     text-decoration: none;
-    background-color: #9cbebe;
 }
 
 header .navigation{
@@ -35,7 +34,7 @@ header .navigation{
 
 header .navigation a{
     position: relative;
-    color: #1f2323;
+    color: #fdfefe;
     font-size: 1rem;
     font-weight: 500;
     padding: 0 1.5rem;
@@ -121,7 +120,7 @@ background-color: rgb(99, 134, 95);
 }
 
 .About{
-    background: #1680AC;
+    background: #f9fafb;
 }
 
 .About .row{
@@ -210,6 +209,7 @@ background-color: rgb(99, 134, 95);
         padding-right: 100px;
         height: 1200px;
         padding-left: 100px;
+        margin-top: 50px;
     }
 
     h1.heading {
